@@ -12,6 +12,17 @@ export default defineUserConfig({
         text: "开始",
         children: ["/start/introduction.md", "/start/quick-start.md"],
       },
+      {
+        link: "/core/",
+        text: "核心",
+        children: [
+          {
+            link: "/system",
+            text: "system",
+            children: ["/core/system/game.md"],
+          },
+        ],
+      },
     ],
   }),
 });
