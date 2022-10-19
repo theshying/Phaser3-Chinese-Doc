@@ -1,8 +1,8 @@
 {
-  "name": "Phaser3-Chinese-Doc",
+  "name": "phaser-docs-cn",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/theshying/Phaser3-Chinese-Doc.git",
+  "repository": "https://github.com/theshying/phaser-docs-cn.git",
   "author": "shayxu <shayxu@tencent.com>",
   "license": "MIT",
   "scripts": {

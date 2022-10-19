@@ -17,9 +17,14 @@ export default defineUserConfig({
         text: "核心",
         children: [
           {
-            link: "/system",
+            link: "/core/system",
             text: "system",
             children: ["/core/system/game.md"],
+          },
+          {
+            link: "/core/game-object",
+            text: "game-object",
+            children: ["/core/game-object/sprite.md"],
           },
         ],
       },

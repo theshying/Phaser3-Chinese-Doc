@@ -1,1 +1,1 @@
-# Phaser3-Chinese-Doc
+# phaser-docs-cn
