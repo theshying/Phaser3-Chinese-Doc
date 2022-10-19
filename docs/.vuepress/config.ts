@@ -2,6 +2,7 @@ import { defineUserConfig } from "vuepress";
 import { defaultTheme } from "@vuepress/theme-default";
 
 export default defineUserConfig({
+  base: "/phaser-docs-cn/",
   lang: "zh-CN",
   title: "phaser3 中文文档",
   description: "phaser3 中文文档",
